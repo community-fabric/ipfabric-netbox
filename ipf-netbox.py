@@ -4,12 +4,12 @@ from ipfabric import IPFClient
 from modules.netbox import *
 import pynetbox
 
-IPF_SERVER = "https://demo4.ipfabric.io"  # demo4
-IPF_TOKEN = "38ecf903d43c9ba883a85ac828030813"  # demo4
+IPF_SERVER = "https://ipf_server"  # demo4
+IPF_TOKEN = ""  # api_token
 IPF_SNAPSHOT = '$last' # or uuid
-IPF_CERT_VERIFY = False
-NB_SERVER = "http://milan.ipf.ipfabric.io:8000/"
-NB_TOKEN = "0123456789abcdef0123456789abcdef01234567"
+IPF_CERT_VERIFY = True
+NB_SERVER = "http://netbox_server:8000/"
+NB_TOKEN = "" # api_token
 NB_CERT_VERIFY = False
 
 
