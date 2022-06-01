@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # Python3 sample code to read inventory data from IP Fabric and to modify NetBox inventory.
 
 from ipfabric import IPFClient
