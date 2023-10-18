@@ -1,3 +1,5 @@
+# STALE PROJECT - OFFICIAL NEW PLUGIN FOUND AT https://gitlab.com/ip-fabric/integrations/ipfabric-netbox-sync
+
 # ipfabric-netbox 1.0.0
 The project is a combination of code samples and examples to migrate data between [IP Fabric](https://ipfabric.io) v4.4.2 and [NetBox](https://https://docs.netbox.dev/) v3.3.2.
 ## requirements
